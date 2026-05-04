@@ -1,2 +1,2 @@
-# learning.coding-2026.4.26-YYYY.MM.DD
+# learning.coding-2026.4.26
 # hello world
